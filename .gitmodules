@@ -1,0 +1,6 @@
+[submodule "modules/pug-engine"]
+	path = modules/pug-engine
+	url = git@github.com:aykhaiweng/pug-engine.git
+[submodule "modules/pug-bot"]
+	path = modules/pug-bot
+	url = git@github.com:aykhaiweng/pug-bot.git

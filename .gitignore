@@ -1,0 +1,8 @@
+*.pyc
+.python-version
+*.code-workspace
+.DS_Store
+.volumes
+.env
+.docker-compose.debug.yml
+.vscode*
